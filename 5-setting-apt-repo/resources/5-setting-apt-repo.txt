@@ -1,0 +1,13 @@
+Go to this url:
+
+https://docs.kali.org/general-use/kali-linux-sources-list-repositories
+
+and copy this line:
+
+deb http://http.kali.org/kali kali-rolling main non-free contrib
+
+to the bottom of this file:
+
+/etc/apt/sources.list
+
+Watch the accompanying video on how to do this.

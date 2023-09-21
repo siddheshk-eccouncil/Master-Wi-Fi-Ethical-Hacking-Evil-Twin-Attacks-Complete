@@ -1,0 +1,39 @@
+Get airgeddon from here:
+
+https://github.com/v1s1t0r1sh3r3/airgeddon
+
+open a terminal and type;:
+
+git clone https://github.com/v1s1t0r1sh3r3/airgeddon.git
+
+Then enter the airgeddon folder:
+
+cd airgeddon
+
+and then run the airgeddon script:
+
+./airgeddon.sh
+
+The above script is how you start airgeddon each time.
+ 
+
+You can install all the missing programs automatically by
+pressing Enter after airgeddon checks the files, or
+you can install them manually one by one as follows:
+
+beef-xss and hostapd-wpe are optional and you
+can skip them.
+
+apt-get install asleap
+apt-get install bettercap
+apt-get install mdk4
+apt-get install hostapd
+apt-get install beef-xss  [optional]
+apt-get install lighttpd
+apt-get install isc-dhcp-server
+apt-get install dnsspoof
+
+If you get any errors during the installation saying that
+certain dependencies are missing, just go ahead
+and install those missing dependencies by typing
+apt-get install dependency-name

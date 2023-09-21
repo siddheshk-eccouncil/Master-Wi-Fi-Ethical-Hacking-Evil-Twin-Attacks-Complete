@@ -1,0 +1,20 @@
+ls
+ pwd
+cd
+touch
+cp
+rm
+mv   [rename file]
+mkdir
+rmdir
+chmod
+ls -l
+mv  [move file]
+ifconfig
+ps ax
+kill -9
+killall 
+
+
+
+

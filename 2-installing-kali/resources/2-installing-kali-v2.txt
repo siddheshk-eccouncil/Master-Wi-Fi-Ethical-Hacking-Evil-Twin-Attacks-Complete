@@ -1,0 +1,18 @@
+1. minimum 16GB USB pen drive
+
+2. Rufus - download from:  https://rufus.ie/
+
+3. Kali Linux iso image : kali-linux-2019.3-i386.iso
+   download from: http://old.kali.org/kali-images/kali-2019.3/
+   [ This is the version used in this course. Please do not use the
+     latest version which is version 2020 or later as those may not work 
+     with the tools used in this course ]
+
+4. an empty laptop or desktop pc - built-in wifi adapter
+
+5. a compatible usb wifi adapter (ie, able to enter monitor mode)
+
+List of compatible wifi adapters:
+
+https://www.wirelesshack.org/best-kali-linux-compatible-usb-adapter-dongles.html
+
